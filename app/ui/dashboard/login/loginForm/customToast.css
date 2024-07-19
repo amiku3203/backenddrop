@@ -1,0 +1,13 @@
+/* customToast.css */
+
+.custom-toast .Toastify__close-button {
+    display: none; /* Hide the close button */
+  }
+  
+  .custom-toast .Toastify__toast {
+    /* Add your custom styles here */
+    border-radius: 8px;
+    padding: 16px;
+    font-size: 16px;
+  }
+  
